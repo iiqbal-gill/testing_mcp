@@ -1,0 +1,28 @@
+{
+  "department_related": [
+    "What are the admission requirements for MSc Computer Science?",
+    "Who is the Dean of the Faculty of Electrical Engineering?",
+    "List the courses offered in the Mechanical Engineering department.",
+    "What is the tuition fee for PhD programs?",
+    "Tell me about the City and Regional Planning department.",
+    "Are there any scholarships available for postgraduate students?",
+    "What is the duration of the MS Data Science program?",
+    "Who is the Chairman of the Product and Industrial Design department?",
+    "Where is the Narowal Campus located?",
+    "What research areas are available in the Civil Engineering department?"
+  ],
+  "tricky": [
+    "Can I do a double math major while studying Physics?",
+    "Is the library open on Sundays for engineering students?",
+    "Do you offer online courses for the practical labs?",
+    "How do I calculate my GPA based on the 2024 regulations?",
+    "What is the difference between the glorious vision of UET and its mission?"
+  ],
+  "out_of_scope": [
+    "How do I cook Biryani?",
+    "Who won the last Cricket World Cup?",
+    "Write a Python code for a calculator.",
+    "What is the weather in Lahore today?",
+    "Recommend a good movie to watch."
+  ]
+}
